@@ -1,4 +1,4 @@
-# HR Management System
+If you want to work locally using your own IDE, you can clone this repo and push changes.
 
 A modern HR management system built with React and shadcn/ui components. This application provides a comprehensive solution for managing employees, tracking applications, and handling HR-related tasks.
 
